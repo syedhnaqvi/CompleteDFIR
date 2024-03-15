@@ -61,16 +61,32 @@ SIEM Implementation and Log Analysis          | <a href="#">Detection Lab</a>|
   
 </div>
 
+### Cloud
+<div>
+    <img src="https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)" />
+    <img src="https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" />
+  
+</div>
+
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA%20CySA%2B-002B5C?style=for-the-badge)" />
+<img src="https://img.shields.io/badge/-Microsoft%20Security%20Solution%20Analyst-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS%20Solution%20Architect%20Associate-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+<img src="https://img.shields.io/badge/-CEH-EC1C24?style=for-the-badge" />
+
+    ## In Progress
+
+<img src="https://img.shields.io/badge/-CISSP-2C3E50?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-CISM-00509E?style=for-the-badge" />
+    
 </div>
 
 ## Projects
 - Detection Lab
 - SOC Automation Project
+- Active Direcotry Lab
