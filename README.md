@@ -24,7 +24,7 @@ SIEM Implementation and Log Analysis          | <a href="#">Detection Lab</a>|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## My Favorites
+## My Favorite Mentors
 
 <div>
     <a href="https://www.youtube.com/@MyDFIR">
@@ -35,6 +35,18 @@ SIEM Implementation and Log Analysis          | <a href="#">Detection Lab</a>|
     <img src="https://yt3.googleusercontent.com/ytc/AIdro_lUWCdtX-DVvLxWMK-gY-p24JNKmrCtKX_s404uMg=s176-c-k-c0x00ffffff-no-rj"></a>
     <a href="https://www.youtube.com/@davidbombal"> 
     <img src="https://yt3.googleusercontent.com/ZeokXdjeXW_6CpcChqvVBEBcHoJ9TAaLTnQj8yT942LLV8afhmUv6zLtqzbNS1uPnernj3SPshA=s176-c-k-c0x00ffffff-no-rj"></a>
+    <br>
+
+</div>
+
+## My Favorite Blogs
+
+<div>
+    <a href=https://www.mydfir.com/">Digital Forensics Blog</a><br>
+    <a href="https://www.bleepingcomputer.com/">Bleeping Computer</a><br>
+    <a href="https://thehackernews.com/">Hackers News</a><br>
+    <a href="https://symantec-enterprise-blogs.security.com/blogs/"</a>Symantec Blog<br>
+    <a href="https://www.microsoft.com/en-us/security/blog/topic/threat-intelligence/">MS Security Blog</a>
 
 </div>
 
