@@ -14,7 +14,7 @@ I am technology enthusiat and love to learn and grow . I learn at my own pace ut
 
 🤝 Eager to collaborate with fellow professionals, researchers, and enthusiasts to exchange insights, address security challenges, and foster a culture of shared learning and improvement.
 
-| Skill                                         | Associated Project         |
+| Projects                                         | Outcome        |
 |-----------------------------------------------|----------------------------|
 |Deployment of 3CX VOIP in cloud               | <a href="#">3CX Deployment Lab</a>
 SIEM Implementation and Log Analysis          | <a href="#">Detection Lab</a>|
@@ -23,6 +23,7 @@ SIEM Implementation and Log Analysis          | <a href="#">Detection Lab</a>|
 | Active Direcotry Project     | AD Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Sentinel Deployment |Cloud Azure Lab|
 
 ## My Favorite Mentors
 
