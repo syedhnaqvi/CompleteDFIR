@@ -113,12 +113,22 @@ SIEM Implementation and Log Analysis          | <a href="#">Detection Lab</a>|
 <img src="https://img.shields.io/badge/-AWS%20Solution%20Architect%20Associate-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
 <img src="https://img.shields.io/badge/-CEH-EC1C24?style=for-the-badge" />
 
-    ## In Progress
+ ## In Progress
 
 <img src="https://img.shields.io/badge/-CISSP-2C3E50?style=for-the-badge" />
 <img src="https://img.shields.io/badge/-CISM-00509E?style=for-the-badge" />
     
 </div>
+
+### Trainings
+<div>
+    <img src="https://img.shields.io/badge/FOR508-SANS-yellow?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAAAXNSR0IArs4c6QAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9YGFA4VH9By4qwAAAAZdEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAKxJREFUSIntkEEOwzAMRe8X0wYN0IEgEzYwaDFDgiKSt5yZn/63WWkQfI9mgMM9pH6KSpF/ubAd9tvPhCgWRA7W8gPjuSKCJ9GB5SVaKZcFHVm2W4qmpvY7PdMWXieVS9nFCdHxSCTHgAf8qLWcT3h5QAAAABJRU5ErkJggg==)" />
+    <img src="https://img.shields.io/badge/-Anomali-00ADD8?style=for-the-badge&logo=Anomali&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cybersixgill-0050C9?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Proofpoint-1A73E8?style=for-the-badge" />
+
+</div>
+
 
 ## Projects
 - Detection Lab
