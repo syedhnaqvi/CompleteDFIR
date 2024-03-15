@@ -25,7 +25,6 @@ SIEM Implementation and Log Analysis          | <a href="#">Detection Lab</a>|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -58,6 +57,14 @@ SIEM Implementation and Log Analysis          | <a href="#">Detection Lab</a>|
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
     <img src=https://img.shields.io/badge/-Securonix-005D9D?style=for-the-badge&logo=Securonix&logoColor=white />
     <img src=https://img.shields.io/badge/-Wazuh-5586A4?style=for-the-badge&logo=Wazuh&logoColor=white />
+  
+</div>
+
+
+### SOAR
+<div>
+    <img src="https://img.shields.io/badge/-Fortinet%20Soar-5177A7?style=for-the-badge&logo=Fortinet&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk%20Phantom-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
   
 </div>
 
