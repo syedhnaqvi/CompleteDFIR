@@ -27,10 +27,14 @@ SIEM Implementation and Log Analysis          | <a href="#">Detection Lab</a>|
 ## My Favorites
 
 <div>
-    <a href="https://www.youtube.com/@MyDFIR">MYDFIR</a> <br>
-    <a href="https://www.youtube.com/@_JohnHammond">John-Hammond</a> <br>
-    <a href="https://www.youtube.com/@NetworkChuck">Network-Chuck</a> <br>
-    <a href="https://www.youtube.com/@davidbombal">David-Bombal</a> <br>
+    <a href="https://www.youtube.com/@MyDFIR">
+    <img src="https://yt3.googleusercontent.com/1XZr3CumVejXV-59CY4qsiNgsLW9_0Ov81mUNc_A8kp1TgjGREkJcxOJPoJy0HCFthwKDRBK0fQ=s176-c-k-c0x00ffffff-no-rj"></a>
+    <a href="https://www.youtube.com/@_JohnHammond">
+    <img src="https://yt3.googleusercontent.com/6FqcWoHZvrZixaGi1S3Re3Z90SCS3iq2_36hQSnSHQPtQVVkywH8WKka53MiBYBSP6DmqM-g9w=s176-c-k-c0x00ffffff-no-rj"></a>
+    <a href="https://www.youtube.com/@NetworkChuck">
+    <img src="https://yt3.googleusercontent.com/ytc/AIdro_lUWCdtX-DVvLxWMK-gY-p24JNKmrCtKX_s404uMg=s176-c-k-c0x00ffffff-no-rj"></a>
+    <a href="https://www.youtube.com/@davidbombal"> 
+    <img src="https://yt3.googleusercontent.com/ZeokXdjeXW_6CpcChqvVBEBcHoJ9TAaLTnQj8yT942LLV8afhmUv6zLtqzbNS1uPnernj3SPshA=s176-c-k-c0x00ffffff-no-rj"></a>
 
 </div>
 
