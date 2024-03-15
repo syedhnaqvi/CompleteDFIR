@@ -132,7 +132,7 @@ SIEM Implementation and Log Analysis          | <a href="#">Detection Lab</a>|
 
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/syedhnaqvi/DetectionLab/blob/main/README.md">Detection Lab</a>
 - SOC Automation Project
 - Active Directory Lab
 - Sentinel Deployment Lab
