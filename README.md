@@ -74,7 +74,7 @@ SIEM Implementation and Log Analysis          | <a href="#">Detection Lab</a>|
 
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CompTIA%20CySA%2B-002B5C?style=for-the-badge)" />
+<img src="https://img.shields.io/badge/-CompTIA%20CySA%2B-002B5C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Microsoft%20Security%20Solution%20Analyst-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-AWS%20Solution%20Architect%20Associate-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
 <img src="https://img.shields.io/badge/-CEH-EC1C24?style=for-the-badge" />
