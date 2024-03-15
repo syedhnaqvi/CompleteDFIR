@@ -24,6 +24,17 @@ SIEM Implementation and Log Analysis          | <a href="#">Detection Lab</a>|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
+## My Favorites
+
+<div>
+    <a href="https://www.youtube.com/@MyDFIR">MYDFIR</a> <br>
+    <a href="https://www.youtube.com/@_JohnHammond">John-Hammond</a> <br>
+    <a href="https://www.youtube.com/@NetworkChuck">Network-Chuck</a> <br>
+    <a href="https://www.youtube.com/@davidbombal">David-Bombal</a> <br>
+
+</div>
+
+
 ## Tools
 
 ### Network
