@@ -123,4 +123,5 @@ SIEM Implementation and Log Analysis          | <a href="#">Detection Lab</a>|
 ## Projects
 - Detection Lab
 - SOC Automation Project
-- Active Direcotry Lab
+- Active Directory Lab
+- Sentinel Deployment Lab
