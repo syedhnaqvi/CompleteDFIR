@@ -20,7 +20,7 @@ I am technology enthusiat and love to learn and grow . I learn at my own pace ut
 SIEM Implementation and Log Analysis          | <a href="#">Detection Lab</a>|
 | Sysmon deployment and log analysis | <a href="#">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Active Direcotry Project     | AD Lab|
+| Active Direcotry Project     | <a href="https://github.com/syedhnaqvi/activedirectory/blob/main/README.md">AD Lab</a>|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 | Sentinel Deployment |Cloud Azure Lab|
@@ -134,5 +134,5 @@ SIEM Implementation and Log Analysis          | <a href="#">Detection Lab</a>|
 ## Projects
 - <a href="https://github.com/syedhnaqvi/DetectionLab/blob/main/README.md">Detection Lab</a>
 - SOC Automation Project
-- Active Directory Lab
+- <a href="https://github.com/syedhnaqvi/activedirectory/blob/main/README.md">Active Directory Lab</a>
 - Sentinel Deployment Lab
